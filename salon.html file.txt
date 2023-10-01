@@ -6068,7 +6068,8 @@ flexibility(document.documentElement);
                                                                         <div class="elementor-widget-container">
                                                                             <h3
                                                                                 class="elementor-heading-title elementor-size-default">
-                                                                                New York</h3>
+                                                                                Vip road
+</h3>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-4033e36 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
@@ -6149,7 +6150,7 @@ flexibility(document.documentElement);
                                                                         <div class="elementor-widget-container">
                                                                             <h3
                                                                                 class="elementor-heading-title elementor-size-default">
-                                                                                Tokyo</h3>
+                                                                                DabaGardens</h3>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-afb23de elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
@@ -6230,7 +6231,9 @@ flexibility(document.documentElement);
                                                                         <div class="elementor-widget-container">
                                                                             <h3
                                                                                 class="elementor-heading-title elementor-size-default">
-                                                                                Paris</h3>
+                                                                                Rushikonda
+
+</h3>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-88d61f5 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
@@ -6316,7 +6319,8 @@ flexibility(document.documentElement);
                                                                         <div class="elementor-widget-container">
                                                                             <h3
                                                                                 class="elementor-heading-title elementor-size-default">
-                                                                                Vishakhapatnam</h3>
+                                                                                Vishalakshinagar
+</h3>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-67579ff elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
@@ -6399,7 +6403,8 @@ flexibility(document.documentElement);
                                                                         <div class="elementor-widget-container">
                                                                             <h3
                                                                                 class="elementor-heading-title elementor-size-default">
-                                                                                Madrid</h3>
+                                                                                Mvp double road
+</h3>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-595dff6 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
@@ -6480,7 +6485,8 @@ flexibility(document.documentElement);
                                                                         <div class="elementor-widget-container">
                                                                             <h3
                                                                                 class="elementor-heading-title elementor-size-default">
-                                                                                New Delhi</h3>
+                                                                                Assilmeta
+</h3>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-4e58ea0 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
@@ -6561,7 +6567,7 @@ flexibility(document.documentElement);
                                                                         <div class="elementor-widget-container">
                                                                             <h3
                                                                                 class="elementor-heading-title elementor-size-default">
-                                                                                Jakarta</h3>
+                                                                                Seethamdara</h3>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-5bcaa3d elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
@@ -6947,23 +6953,38 @@ flexibility(document.documentElement);
                                         <ul id="menu-our-salons" class="menu">
                                             <li id="menu-item-516"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-516">
-                                                <a href="#" class="menu-link">New York</a>
+                                                <a href="#" class="menu-link">Vip road
+</a>
                                             </li>
                                             <li id="menu-item-517"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-517">
-                                                <a href="#" class="menu-link">Tokyo</a>
+                                                <a href="#" class="menu-link">Daba gardens
+</a>
                                             </li>
                                             <li id="menu-item-518"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-518">
-                                                <a href="#" class="menu-link">Paris</a>
+                                                <a href="#" class="menu-link">Rushikonda
+</a>
                                             </li>
                                             <li id="menu-item-519"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-519">
-                                                <a href="#" class="menu-link">Melbourne</a>
+                                                <a href="#" class="menu-link">Vishalakshinagar
+</a>
                                             </li>
                                             <li id="menu-item-520"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-520">
-                                                <a href="#" class="menu-link">Madrid</a>
+                                                <a href="#" class="menu-link">Mvp double road
+</a>
+                                            </li>
+                                            
+                                            <li id="menu-item-520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-520">
+                                                <a href="#" class="menu-link">Assilmeta
+
+                                                </a>
+                                            </li>
+                                            <li id="menu-item-520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-520">
+                                                <a href="#" class="menu-link">Seethamdara
+                                                </a>
                                             </li>
                                         </ul>
                                     </nav>
